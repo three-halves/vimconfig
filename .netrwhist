@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/morgan/2024-SP-102-pa04-mjjm4d/src'
+let g:netrw_dirhist_6='/home/morgan/2024-SP-301-postlab08-mjjm4d/examples_catch_gcov'
+let g:netrw_dirhist_5='/home/morgan/2024-SP-301-postlab08-mjjm4d/examples_catch2_official'
+let g:netrw_dirhist_4='/home/morgan/2024-SP-301-project1-mjjm4d'
+let g:netrw_dirhist_3='/home/morgan/.ssh'
+let g:netrw_dirhist_2='/home/morgan/2024-SP-301-postlab06-mjjm4d/problem2'
+let g:netrw_dirhist_1='/home/morgan/2024-SP-301-postlab06-mjjm4d/problem1'
